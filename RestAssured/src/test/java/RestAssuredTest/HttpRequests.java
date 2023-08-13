@@ -1,4 +1,4 @@
-//This file is about how to send request using restassured framework
+//This file is about how to send request
 
 /*
 Create your own APIs using below process:
